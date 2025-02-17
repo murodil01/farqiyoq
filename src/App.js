@@ -29,6 +29,7 @@ function App() {
                         <button className="btn order-now">Order now</button>
                         <button className="btn learn-more">Learn more</button>
                     </div>
+                    {/* <div></div> */}
 
                     <footer className="pagination">
                         <span className="span">01</span>
