@@ -14,7 +14,6 @@ function App() {
                     <li><a href="!">Gallery</a></li>
                     <li><a href="!">News</a></li>
                     <li><a href="!">About Us</a></li>
-                    <a href="!"><i className='bx bx-cart' style={{ color: "#ffffff" }}></i></a>
                 </ul>
             </nav>
         </header>
@@ -36,8 +35,6 @@ function App() {
                         <span className="span">02</span>
                         <span className="span">03</span>
                         <span className="span">04</span>
-                        <span className="show"><i className='bx bx-chevron-left' style={{ color: "#ffffff" }}></i></span>
-                        <span className="show"><i className='bx bx-chevron-right' style={{ color: "#ffffff" }}></i></span>
                     </footer>
                 </div>
             </div>
