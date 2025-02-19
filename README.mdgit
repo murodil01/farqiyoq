@@ -1,0 +1,1 @@
+# inception01 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/murodil01/inception01.gitgit push -u origin main
